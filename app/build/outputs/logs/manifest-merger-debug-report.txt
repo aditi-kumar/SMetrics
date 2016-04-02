@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:8:22-77
+uses-sdk
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:10:5-12:41
+MERGED from [com.android.support:support-v4:22.2.1] F:\workspace\SMETRICS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:12:9-38
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:11:9-35
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+		INJECTED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:14:5-104:19
+MERGED from [com.android.support:support-v4:22.2.1] F:\workspace\SMETRICS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.smetrics.MainActivity
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.smetrics.MainMenu
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:30:13-61
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:29:13-37
+activity#com.example.smetrics.Demo
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:33:13-33
+activity#com.example.smetrics.ListFileActivity
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:36:9-39:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:38:13-61
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:37:13-45
+activity#com.example.smetrics.Filedemo
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:40:9-43:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:42:13-60
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:41:13-37
+activity#com.example.smetrics.NewPro
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:44:9-47:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:46:13-59
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:45:13-35
+activity#com.example.smetrics.ModPro
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:48:9-51:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:50:13-59
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:49:13-35
+activity#com.example.smetrics.YourFile
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:52:9-55:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:54:13-61
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:53:13-37
+activity#com.example.smetrics.Completepro
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:56:9-59:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:58:13-63
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:57:13-40
+activity#com.example.smetrics.Instructions
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:62:13-64
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:61:13-41
+activity#com.example.smetrics.AboutAuthor
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:64:9-67:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:66:13-64
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:65:13-40
+activity#com.example.smetrics.EditFile
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:68:9-71:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:70:13-61
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:69:13-37
+activity#com.example.smetrics.Addtask
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:72:9-75:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:74:13-59
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:73:13-36
+activity#com.example.smetrics.NewModule
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:76:9-79:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:78:13-62
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:77:13-38
+activity#com.example.smetrics.AddSRS
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:80:9-83:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:82:13-59
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:81:13-35
+activity#com.example.smetrics.ListActivity
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:84:9-87:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:86:13-56
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:85:13-41
+activity#com.example.smetrics.FileList
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:88:9-91:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:90:13-61
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:89:13-37
+activity#com.example.smetrics.AddCode
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:92:9-95:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:94:13-60
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:93:13-36
+activity#com.example.smetrics.YourModule
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:96:9-99:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:98:13-63
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:97:13-39
+activity#com.example.smetrics.CommitPDF
+ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:100:9-103:20
+	android:label
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:102:13-62
+	android:name
+		ADDED from F:\workspace\SMETRICS\app\src\main\AndroidManifest.xml:101:13-38

@@ -1,0 +1,164 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="${relativePackage}.${activityClass}" >
+
+    <GridLayout
+        android:id="@+id/gridLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/offi" >
+    </GridLayout>
+<ScrollView 
+    android:id="@+id/scrollview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/gridLayout1"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="20dp">  
+
+   <LinearLayout
+    android:id="@+id/linearLayout1"
+    android:layout_width="304dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+         <TextView
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="Create a project"
+        android:clickable="true" 
+        android:onClick="newp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="10dp"
+        android:text="a new project shall be created.."
+         android:clickable="true" 
+        android:onClick="newp" />
+    
+         <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:layout_marginTop="5dp"
+        android:text="manage current projects"
+         android:clickable="true"
+         android:onClick="modp"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="10dp"
+        android:clickable="true"
+         android:onClick="modp"
+        android:text="modify existing projects.." />
+            
+
+            <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="15dp"
+        android:text="Show completed Projects"
+         android:clickable="true"
+         android:onClick="comp" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="10dp"
+        android:text="description" />   
+             
+
+     
+             <TextView
+        android:id="@+id/textView12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="15dp"
+        android:text="loc generator"
+         android:clickable="true"
+         android:onClick="mcontinue6" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="10dp"
+        android:clickable="true"
+         android:onClick="mcontinue6"
+        android:text="free of cost..." />   
+         <TextView
+        android:id="@+id/textView14"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="15dp"
+        android:text="Instructions"
+         android:clickable="true"
+         android:onClick="inst" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="10dp"
+        android:clickable="true"
+         android:onClick="inst"
+        android:text="user manual.." /> 
+         <TextView
+        android:id="@+id/textView16"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textSize="15dp"
+        android:text="about the author"
+         android:clickable="true"
+         android:onClick="auth" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:textSize="10dp"
+        android:clickable="true"
+         android:onClick="auth"
+        android:text="about the developer.." />   
+    </LinearLayout>
+
+    
+</ScrollView>
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentLeft="true"
+    android:layout_below="@+id/gridLayout1"
+    android:text="Select an option"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:textStyle="bold"
+    android:typeface="serif" />
+
+</RelativeLayout>

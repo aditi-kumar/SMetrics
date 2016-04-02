@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadein.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fadeout.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tryout.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\anim\\tryout.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tryin.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\anim\\tryin.xml"
+    }
+]

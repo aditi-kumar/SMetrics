@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smetrics"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainMenu"
+            android:label="@string/title_activity_main_menu" >
+        </activity>
+        <activity
+            android:name=".Demo"
+            android:label="@string/title_activity_demo" >
+        </activity>
+        <activity
+            android:name=".ListFileActivity"
+            android:label="@string/title_activity_list_file" >
+        </activity>
+        <activity
+            android:name=".Filedemo"
+            android:label="@string/title_activity_filedemo" >
+        </activity>
+        <activity
+            android:name=".NewPro"
+            android:label="@string/title_activity_new_pro" >
+        </activity>
+        <activity
+            android:name=".ModPro"
+            android:label="@string/title_activity_mod_pro" >
+        </activity>
+        <activity
+            android:name=".YourFile"
+            android:label="@string/title_activity_your_file" >
+        </activity>
+        <activity
+            android:name=".Completepro"
+            android:label="@string/title_activity_completepro" >
+        </activity>
+        <activity
+            android:name=".Instructions"
+            android:label="@string/title_activity_instructions" >
+        </activity>
+        <activity
+            android:name=".AboutAuthor"
+            android:label="@string/title_activity_about_author" >
+        </activity>
+        <activity
+            android:name=".EditFile"
+            android:label="@string/title_activity_edit_file" >
+        </activity>
+        <activity
+            android:name=".Addtask"
+            android:label="@string/title_activity_addtask" >
+        </activity>
+        <activity
+            android:name=".NewModule"
+            android:label="@string/title_activity_new_module" >
+        </activity>
+        <activity
+            android:name=".AddSRS"
+            android:label="@string/title_activity_add_srs" >
+        </activity>
+        <activity
+            android:name=".ListActivity"
+            android:label="@string/title_activity_list" >
+        </activity>
+        <activity
+            android:name=".FileList"
+            android:label="@string/title_activity_file_list" >
+        </activity>
+        <activity
+            android:name=".AddCode"
+            android:label="@string/title_activity_add_code" >
+        </activity>
+        <activity
+            android:name=".YourModule"
+            android:label="@string/title_activity_your_module" >
+        </activity>
+        <activity
+            android:name=".CommitPDF"
+            android:label="@string/title_activity_commit_pdf" >
+        </activity>
+    </application>
+
+</manifest>

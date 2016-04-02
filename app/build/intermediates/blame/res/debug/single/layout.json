@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\curve_shap.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\curve_shap.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_module.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_new_module.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_author.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_about_author.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_instructions.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_instructions.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_srs.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_add_srs.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_commit_pdf.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_commit_pdf.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_completepro.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_completepro.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_demo.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_demo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_your_module.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_your_module.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filedemo.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_filedemo.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_file_list.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_file_list.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_code.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_add_code.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_mod_pro.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_mod_pro.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_edit_file.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_edit_file.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_menu.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_main_menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_file.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_list_file.xml"
+    },
+    {
+        "merged": "F:\\workspace\\SMETRICS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_pro.xml",
+        "source": "F:\\workspace\\SMETRICS\\app\\src\\main\\res\\layout\\activity_new_pro.xml"
+    }
+]

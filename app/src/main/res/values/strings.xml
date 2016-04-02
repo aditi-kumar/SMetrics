@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMETRICS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="title_activity_demo">Demo</string>
+    <string name="title_activity_file_chooser">FileChooser</string>
+    <string name="title_activity_list_file">ListFileActivity</string>
+    <string name="title_activity_filedemo">Filedemo</string>
+    <string name="title_activity_new_pro">NewPro</string>
+    <string name="title_activity_mod_pro">ModPro</string>
+    <string name="title_activity_your_file">YourFile</string>
+    <string name="title_activity_completepro">Completepro</string>
+    <string name="title_activity_instructions">Instructions</string>
+    <string name="title_activity_about_author">AboutAuthor</string>
+    <string name="title_activity_edit_file">EditFile</string>
+    <string name="title_activity_addtask">Addtask</string>
+    <string name="title_activity_new_module">NewModule</string>
+    <string name="title_activity_add_srs">AddSRS</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_file_list">FileList</string>
+    <string name="title_activity_add_code">AddCode</string>
+    <string name="title_activity_your_module">YourModule</string>
+    <string name="title_activity_commit_pdf">CommitPDF</string>
+
+</resources>
